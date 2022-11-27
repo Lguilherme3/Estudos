@@ -1,4 +1,4 @@
-<h1 align="center"> BOX401 </h1>
+<h1 align="center"> Estudos </h1>
 
 
 
@@ -29,9 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto desenvolvido por min, com ajuda da minha esposa. A BOX401 foi um projeto real que criamos para vender canecas, porém por motivos maiores,
-não seguimos com ela. Porém um dos primeiros sites que eu criei "sozinho" foi esse, e agora com um pouco mais de conhecimento com React, criei com ele,
-e com resposividade para telas menores.
+O projeto é um contador de estudos, feito pela escola Alura, que fiz com meus estudos.
 
 
 ## :memo: Licença
